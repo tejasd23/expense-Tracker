@@ -1,4 +1,4 @@
-# expenses
+# expenses - Tracker
 
 Flutter app where you can track your daily expenses.
 
